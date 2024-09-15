@@ -176,4 +176,5 @@ npx hardhat newcircuit --name newcircuit
 2. Search for your contract address.
 3. Complete the verification.
 
-
+### Authors
+Divij Shukla
